@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  Kelling Chapter 2 C++ Fall 2019.cpp
+c:\users\marie\onedrive\desktop\kelling chapter 2 c++ fall 2019\kelling chapter 2 c++ fall 2019\kelling chapter 2 c++ fall 2019.cpp(11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marie\onedrive\desktop\kelling chapter 2 c++ fall 2019\kelling chapter 2 c++ fall 2019\kelling chapter 2 c++ fall 2019.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Kelling Chapter 2 C++ Fall 2019.vcxproj -> C:\Users\marie\OneDrive\Desktop\Kelling Chapter 2 C++ Fall 2019\Debug\Kelling Chapter 2 C++ Fall 2019.exe
